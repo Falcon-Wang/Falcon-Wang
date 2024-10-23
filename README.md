@@ -11,4 +11,4 @@ Majoring in Artificial Intelligence, specifically autonomous driving.
 + Deep Learning
 
 ## How to reach me
-📫 falconwang0110@gmail.com
+📫 falconwang0110 [at] gmail [dot] com
