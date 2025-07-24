@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 ## About Me
-I'm currently a student at the University of Otago, New Zealand.  
-Majoring in Artificial Intelligence, specifically autonomous driving.
+Graduated from the University of Otago, New Zealand.  
+Majoring in Artificial Intelligence.
+Working as an embedded engineer in Mlog Technology, Beijing, China.
 
 ## Skills
-+ Python
-+ C/C++
++ Python, Go, C/C++
 + Machine Learning and Data Mining
 + Deep Learning
 
